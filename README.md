@@ -45,7 +45,7 @@
 </p>
 
 
-## ⚒️ <h2 style="color:black; font-size:30px;">경력</h2
+## 🔨 경력
 
 ---
 
