@@ -63,7 +63,7 @@ CI/CD 파이프라인 구축 및 운영: Jenkins, AWS CodeDeploy, Git, Bitbucket
 📦 IaC (Infrastructure as Code)
 Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS 구성
 
- 👉 [terraform-eks-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/terraform-demo)
+ 👉 [terraform-eks-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/terraform-eks-demo)
  
  👉 [argodb-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/argodb-demo)
 
