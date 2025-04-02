@@ -71,7 +71,7 @@ Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS 구성
 
  
 
--Ansible: 서버 구성 자동화, 배포 스크립트 작성, 구성 관리
+- Ansible: 서버 구성 자동화, 배포 스크립트 작성, 구성 관리
 
 👉 [ansible AWS 참조](https://github.com/guhun-gwon/guhun-gwon/blob/main/images/ansible_awx.png)
 
