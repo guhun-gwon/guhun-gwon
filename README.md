@@ -44,23 +44,27 @@
   <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
 </p>
 
+
+
 ## 🔨 기술 스택 요약
 
- 클라우드 & 인프라
+## 💸 Cloud & Infra
 AWS 인프라 운영: EC2, ELB, VPC, SG, Lambda, CloudWatch, IAM, ASG
 
 클라우드 마이그레이션: IDC → AWS 전환 (EOS 시스템 이전 포함)
 
 비용 최적화 경험: ASG, 리소스 구조 개선, 탄력적 인프라 구성
 
-⚙️ DevOps & 자동화
+
+## ⚙️ DevOps & 자동화 
 CI/CD 파이프라인 구축 및 운영: Jenkins, AWS CodeDeploy, Git, Bitbucket, CodePipeline
 
 배포 전략: Blue/Green, Rolling, 무중단 배포 설계 및 적용
 
 배포 자동화 도구 활용: Ansible, PowerShell, Shell Script
 
-- IaC (Infrastructure as Code)
+
+## 📦 IaC (Infrastructure as Code)  
 Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS 구성
 
  👉 [terraform-eks-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/terraform-demo)
@@ -77,15 +81,16 @@ Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS 구성
 
  
 
-- 모니터링 & 운영
+## 📊 모니터링 & 운영
 모니터링 시스템 구축: Scouter, Grafana, CloudWatch
 
 Alert 지표 최적화 및 성능 모니터링 구축 경험
 
 로그 및 장애 대응 체계 운영
 
-🛠- 시스템 운영 및 유지보수
-On-Prem 환경 운영 경험: IDC, XenCenter 기반 Private Cloud, 2000EA 이상 서버 유지보수
+
+## 🛠️ 시스템 운영 및 유지보수  
+On-P 환경 운영 경험: IDC, XenCenter 기반 Private Cloud, 2000EA 이상 서버 유지보수
 
 네트워크 및 보안: 방화벽 정책, DNS, SSL 인증서, 백업 정책 관리
 
