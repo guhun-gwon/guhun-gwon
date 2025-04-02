@@ -61,9 +61,12 @@ CI/CD 파이프라인 구축 및 운영: Jenkins, AWS CodeDeploy, Git, Bitbucket
 배포 자동화 도구 활용: Ansible, PowerShell, Shell Script
 
 📦 IaC (Infrastructure as Code)
-Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS, Argocd 적용
+Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS 구성
+ 👉 [terraform-eks-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/terraform-eks-demo)
+ 👉 [argodb-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/argodb-demo)
 
 Ansible: 서버 구성 자동화, 배포 스크립트 작성, 구성 관리
+ 👉 [terraform-eks-demo 예제 보기](https://github.com/guhun-gwon/guhun-gwon/tree/main/terraform-eks-demo)
 
 🧰 모니터링 & 운영
 모니터링 시스템 구축: Scouter, Grafana, CloudWatch, ELK Stack
