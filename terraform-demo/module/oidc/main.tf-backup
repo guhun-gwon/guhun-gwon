@@ -1,0 +1,26 @@
+data "aws_eks_cluster" "eks" {
+  name = var.cluster_name
+}
+
+locals {
+  oidc_url = replace(data.aws_eks_cluster.eks.identity[0].oidc[0].issuer, "https://", "")
+}
+
+data "aws_iam_openid_connect_provider" "oidc" {
+  arn = "arn:aws:iam::752478543649:oidc-provider/oidc.eks.ap-northeast-2.amazonaws.com/id/DBEC58153EEB762C0EACA956D935D8FA"
+}
+
+output "oidc_provider_arn" {
+  description = "OIDC Provider ARN"
+  value       = data.aws_iam_openid_connect_provider.oidc.arn
+}
+
+variable "cluster_name" {
+  description = "EKS cluster name"
+  type        = string
+}
+
+output "oidc_provider_url" {
+  description = "OIDC provider URL (without https://)"
+  value       = replace(data.aws_eks_cluster.eks.identity[0].oidc[0].issuer, "https://", "")
+}
