@@ -44,6 +44,42 @@
   <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/> <!-- EKS는 별도 로고가 없으므로 AWS 로고 사용 -->
 </p>
 
+## 🔨 기술 스택 요약
+
+ 클라우드 & 인프라
+AWS 인프라 운영: EC2, ELB, VPC, SG, Lambda, CloudWatch, IAM, ASG
+
+클라우드 마이그레이션: IDC → AWS 전환 (EOS 시스템 이전 포함)
+
+비용 최적화 경험: ASG, 리소스 구조 개선, 탄력적 인프라 구성
+
+⚙️ DevOps & 자동화
+CI/CD 파이프라인 구축 및 운영: Jenkins, AWS CodeDeploy, Git, Bitbucket, CodePipeline
+
+배포 전략: Blue/Green, Rolling, 무중단 배포 설계 및 적용
+
+배포 자동화 도구 활용: Ansible, PowerShell, Shell Script
+
+📦 IaC (Infrastructure as Code)
+Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS, Argocd 적용
+
+Ansible: 서버 구성 자동화, 배포 스크립트 작성, 구성 관리
+
+🧰 모니터링 & 운영
+모니터링 시스템 구축: Scouter, Grafana, CloudWatch, ELK Stack
+
+Alert 지표 최적화 및 성능 모니터링 구축 경험
+
+로그 및 장애 대응 체계 운영
+
+🛠️ 시스템 운영 및 유지보수
+On-Prem 환경 운영 경험: IDC, XenCenter 기반 Private Cloud, 2000EA 이상 서버 유지보수
+
+네트워크 및 보안: 방화벽 정책, DNS, SSL 인증서, 백업 정책 관리
+
+미들웨어 운영: Apache, Tomcat, JBoss 성능 튜닝 및 업그레이드
+
+
 
 ## 🔨 경력
 
@@ -51,35 +87,4 @@
 
 ###  타이드스퀘어 (2022.09 ~ 재직중) — *2년 8개월*
 
-####  DevOps
-- IaC (Terraform, Ansible)를 활용하여 NAT 게이트웨이를 포함한 **VPC 네트워크 구성 및 자동화 배포 수행**
-- Scouter 및 Grafana 기반 **모니터링 시스템 구축 및 Alert 지표 최적화**
-- **AWS 인프라 운영 및 관리**: EC2, ELB, SG, VPC, Lambda, CloudWatch, CI/CD Pipeline, IAM 등
-- EOS(End of Support)된 **IDC 서비스의 AWS 마이그레이션 및 ASG 적용 통한 비용 최적화**
-
-####  Deploy
-- **Jenkins + AWS CodeDeploy 기반 CI/CD 자동화 파이프라인 구축 및 최적화**
-- Jenkins + Ansible로 **IDC(온프레미스) 배포 자동화 파이프라인 설계 및 운영**
-- Git, Bitbucket, Terraform 연동 통한 **지속적 통합/배포(Continuous Integration/Deployment) 프로세스 개선**
-- **Blue/Green 및 Rolling 배포 전략 적용**으로 무중단 배포 실현
-- **Ansible 기반 구성 관리 및 배포 스크립트 자동화**
-
-####  System Engineer
-- **IDC, Private Cloud(XenCenter), AWS 서버 운영 및 관리**
-- 네트워크, 모니터링, 자산 관리, 백업 정책, **DNS/SSL 인증서 관리 등 인프라 운영 전반**
-- 인프라 **증설 및 구조 개선**, 계약 및 비용 최적화, 방화벽 정책 수립 및 운영
-- **Apache 버전 업그레이드 및 성능 튜닝**, Tomcat/JBoss 업그레이드 및 최적화
-
----
-
 ###  지메이트시스템즈 (2014.09 ~ 2022.09) — *8년 1개월*
-
-####  Deploy
-- **Linux 환경**: Ansible 기반 Nexus, GitLab 등 오픈소스 도구를 활용한 배포 자동화
-- **Windows 환경**: Jenkins + Subversion 기반 버전 관리, PowerShell로 배포 자동화
-- **Docker, Kubernetes 기반 Blue/Green 배포 수행**
-
-####  System Engineer
-- 고객사별 신규 IDC 물리 장비 구축 및 운영
-- **2000EA 이상 온프레미스 서버 유지보수 및 장애 대응**
-
