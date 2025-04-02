@@ -10,7 +10,7 @@
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWX-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/> <!-- AWX는 로고가 없으므로 Ansible 로고 사용 -->
+  <img src="https://img.shields.io/badge/AWX-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/> 
 
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -41,7 +41,7 @@
   <!-- AWS 관련 -->
   <img src="https://img.shields.io/badge/AWS CodePipeline-6DB33F?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/> <!-- EKS는 별도 로고가 없으므로 AWS 로고 사용 -->
+  <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/>
 </p>
 
 ## 🔨 기술 스택 요약
@@ -62,7 +62,9 @@ CI/CD 파이프라인 구축 및 운영: Jenkins, AWS CodeDeploy, Git, Bitbucket
 
 📦 IaC (Infrastructure as Code)
 Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS 구성
+
  👉 [terraform-eks-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/terraform-eks-demo)
+ 
  👉 [argodb-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/argodb-demo)
 
 Ansible: 서버 구성 자동화, 배포 스크립트 작성, 구성 관리
