@@ -67,7 +67,7 @@ Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS 구성
  
  👉 [argocd-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/argocd-demo)
 
- 👉 [ansible AWS 참조](https://github.com/guhun-gwon/guhun-gwon/blob/main/images/argocd.png)
+ 👉 [argocd-demo images](https://github.com/guhun-gwon/guhun-gwon/blob/main/images/argocd.png)
 
  
 
