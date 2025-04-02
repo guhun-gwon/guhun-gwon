@@ -59,9 +59,9 @@ AWS 인프라 운영: EC2, ELB, VPC, SG, Lambda, CloudWatch, IAM, ASG
 ## ⚙️ DevOps & 자동화 
 CI/CD 파이프라인 구축 및 운영: Jenkins, AWS CodeDeploy, Git, Bitbucket, CodePipeline
 
-👉 [CI 구성 이미지](https://github.com/guhun-gwon/guhun-gwon/blob/main/images/jenkins_CI.png)
+👉 [CI 이미지](https://github.com/guhun-gwon/guhun-gwon/blob/main/images/jenkins_CI.png)
 
-👉 [CD 구성 이미지](https://github.com/guhun-gwon/guhun-gwon/blob/main/images/codedeploy_CD.png)
+👉 [CD 이미지](https://github.com/guhun-gwon/guhun-gwon/blob/main/images/codedeploy_CD.png)
 
 배포 전략: Blue/Green, Rolling, 무중단 배포 설계 및 적용
 
