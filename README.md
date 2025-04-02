@@ -47,8 +47,6 @@
 
 ⚒️ <h2 style="color:black; font-size:30px;">경력</h2>
 
-<h2 style="color:black; font-size:30px;">경력</h2>
-
 ---
 
 ### 🎯 타이드스퀘어 (2022.09 ~ 재직중) — *2년 8개월*
