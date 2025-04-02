@@ -65,10 +65,11 @@ Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS 구성
 
  👉 [terraform-eks-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/terraform-demo)
  
- 👉 [argodb-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/argocd-demo)
+ 👉 [argocd-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/argocd-demo)
 
 Ansible: 서버 구성 자동화, 배포 스크립트 작성, 구성 관리
- 👉 [terraform-eks-demo 예제 보기](https://github.com/guhun-gwon/tree/main/terraform-eks-demo)
+
+ 👉 [ansible AWS 참조](https://github.com/guhun-gwon/tree/main/images/argocd.png)
 
 🧰 모니터링 & 운영
 모니터링 시스템 구축: Scouter, Grafana, CloudWatch, ELK Stack
