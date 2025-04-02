@@ -76,7 +76,7 @@ Ansible: 서버 구성 자동화, 배포 스크립트 작성, 구성 관리
  
 
 🧰 모니터링 & 운영
-모니터링 시스템 구축: Scouter, Grafana, CloudWatch, ELK Stack
+모니터링 시스템 구축: Scouter, Grafana, CloudWatch
 
 Alert 지표 최적화 및 성능 모니터링 구축 경험
 
