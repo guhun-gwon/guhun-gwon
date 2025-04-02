@@ -60,7 +60,7 @@ CI/CD 파이프라인 구축 및 운영: Jenkins, AWS CodeDeploy, Git, Bitbucket
 
 배포 자동화 도구 활용: Ansible, PowerShell, Shell Script
 
-📦 IaC (Infrastructure as Code)
+- IaC (Infrastructure as Code)
 Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS 구성
 
  👉 [terraform-eks-demo 참조](https://github.com/guhun-gwon/guhun-gwon/tree/main/terraform-demo)
@@ -69,20 +69,22 @@ Terraform: VPC 구성, 네트워크 자동화, 모듈화 구성, EKS 구성
 
  👉 [ansible AWS 참조](https://github.com/guhun-gwon/guhun-gwon/blob/main/images/argocd.png)
 
-Ansible: 서버 구성 자동화, 배포 스크립트 작성, 구성 관리
+ 
+
+-Ansible: 서버 구성 자동화, 배포 스크립트 작성, 구성 관리
 
 👉 [ansible AWS 참조](https://github.com/guhun-gwon/guhun-gwon/blob/main/images/ansible_awx.png)
 
  
 
-🧰 모니터링 & 운영
+- 모니터링 & 운영
 모니터링 시스템 구축: Scouter, Grafana, CloudWatch
 
 Alert 지표 최적화 및 성능 모니터링 구축 경험
 
 로그 및 장애 대응 체계 운영
 
-🛠️ 시스템 운영 및 유지보수
+🛠- 시스템 운영 및 유지보수
 On-Prem 환경 운영 경험: IDC, XenCenter 기반 Private Cloud, 2000EA 이상 서버 유지보수
 
 네트워크 및 보안: 방화벽 정책, DNS, SSL 인증서, 백업 정책 관리
