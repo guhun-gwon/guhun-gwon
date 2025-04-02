@@ -43,3 +43,6 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white"/> <!-- EKS는 별도 로고가 없으므로 AWS 로고 사용 -->
 </p>
+
+
+<h2 style="color:black; font-size:30px;">경력</h2>
